@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 💻 Trabalhando como Desenvolvedor de Sistemas Júnior no Brasil.<br>- 📚 Aprendendo e aprimorando minhas habilidades em React.
+- 💻 Trabalhando como Desenvolvedor de Sistemas Júnior no Brasil.<br>
+- 📚 Aprendendo e aprimorando minhas habilidades em React.
 
 
 ## 🌐 Socials:
